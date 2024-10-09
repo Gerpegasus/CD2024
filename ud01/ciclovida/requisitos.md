@@ -1,0 +1,5 @@
+- Programa java
+- Sume 2 numeros (enteiros ou reais)
+- E un programa de consola
+- Os numeros van por consola
+- O resultado imprime por consola
